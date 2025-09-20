@@ -1,2 +1,2 @@
-import uvicorn
-from fastapi import FastAPI
+uvicorn
+fastapi
